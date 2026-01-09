@@ -8,3 +8,5 @@ The map contains several layers that give a sense of the geographical distributi
 (3) House price hot and cold spots.  
 
 The map was used during the project to select, develop and fine-tune the geovisualisations that were included in the final report, accessible at https://www.hel.fi/static/liitteet/kaupunkiymparisto/julkaisut/julkaisut/julkaisu-32-19-en.pdf. 
+
+![Static version of the map](https://github.com/ethanvotsis/helsinki-risk-maps/blob/main/Figure-29.tiff)
